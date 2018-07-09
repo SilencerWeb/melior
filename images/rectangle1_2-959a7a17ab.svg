@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1054px" height="610px" viewBox="0 0 1054 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.602244614 0 1331.06709 0 1374 71.0351563 1374 186.812708 1129.00068 610 0.602244614 610"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="melior-ico-4" transform="translate(-226.000000, -60.000000)">
+            <g id="Group-5" transform="translate(226.000000, 60.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle-16" transform="translate(687.301122, 305.000000) scale(-1, -1) translate(-687.301122, -305.000000) ">
+                    <use fill="#0A9BDC" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.15" fill="#414B50" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
