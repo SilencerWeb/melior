@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1345px" height="665px" viewBox="0 0 1345 665" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="575 0 1869.99219 0 1919.92511 84.84375 1919.92511 220.14564 1664.70464 664.746094 575 664.746094"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-74" transform="translate(-575.000000, 0.000000)">
+            <g id="Rectangle-16" transform="translate(1247.462554, 332.373047) scale(-1, -1) translate(-1247.462554, -332.373047) ">
+                <use fill="#0C89DE" xlink:href="#path-1"></use>
+                <use fill-opacity="0.150000006" fill="#414B50" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
